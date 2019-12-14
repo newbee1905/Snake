@@ -1,5 +1,3 @@
-#include "bits/stdc++.h"
-
 #include "Game.h"
 
 // set namespace for better syntax when declaring Class name

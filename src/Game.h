@@ -19,6 +19,7 @@ private:
   sf::VideoMode windowSize;
   std::string windowTitle;
   sf::Event ev;
+
   // * Game Object
   sf::RectangleShape enemy;
 
@@ -41,4 +42,5 @@ public:
   void render();
 };
 } // namespace usr
+
 #endif /* GAME_H */

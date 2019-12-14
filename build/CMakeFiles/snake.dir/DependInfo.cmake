@@ -5,6 +5,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/newbee/Documents/Snake/src/Game.cpp" "/home/newbee/Documents/Snake/build/CMakeFiles/snake.dir/src/Game.cpp.o"
+  "/home/newbee/Documents/Snake/src/Point.cpp" "/home/newbee/Documents/Snake/build/CMakeFiles/snake.dir/src/Point.cpp.o"
+  "/home/newbee/Documents/Snake/src/Snake.cpp" "/home/newbee/Documents/Snake/build/CMakeFiles/snake.dir/src/Snake.cpp.o"
   "/home/newbee/Documents/Snake/src/main.cpp" "/home/newbee/Documents/Snake/build/CMakeFiles/snake.dir/src/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

@@ -4,6 +4,13 @@
 CMakeFiles/snake.dir/src/Game.cpp.o: ../src/Game.cpp
 CMakeFiles/snake.dir/src/Game.cpp.o: ../src/Game.h
 
+CMakeFiles/snake.dir/src/Point.cpp.o: ../src/Game.h
+CMakeFiles/snake.dir/src/Point.cpp.o: ../src/Point.cpp
+CMakeFiles/snake.dir/src/Point.cpp.o: ../src/Point.h
+
+CMakeFiles/snake.dir/src/Snake.cpp.o: ../src/Snake.cpp
+CMakeFiles/snake.dir/src/Snake.cpp.o: ../src/Snake.h
+
 CMakeFiles/snake.dir/src/main.cpp.o: ../src/Game.h
 CMakeFiles/snake.dir/src/main.cpp.o: ../src/main.cpp
 

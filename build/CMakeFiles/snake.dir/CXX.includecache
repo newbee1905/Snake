@@ -6,12 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/home/newbee/Documents/Snake/src/Game.cpp
-bits/stdc++.h
-/home/newbee/Documents/Snake/src/bits/stdc++.h
-Game.h
-/home/newbee/Documents/Snake/src/Game.h
-
 /home/newbee/Documents/Snake/src/Game.h
 SFML/Audio.hpp
 -
@@ -26,9 +20,11 @@ SFML/Window.hpp
 bits/stdc++.h
 /home/newbee/Documents/Snake/src/bits/stdc++.h
 
-/home/newbee/Documents/Snake/src/main.cpp
-bits/stdc++.h
-/home/newbee/Documents/Snake/src/bits/stdc++.h
+/home/newbee/Documents/Snake/src/Point.cpp
+Point.h
+/home/newbee/Documents/Snake/src/Point.h
+
+/home/newbee/Documents/Snake/src/Point.h
 Game.h
 /home/newbee/Documents/Snake/src/Game.h
 

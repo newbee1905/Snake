@@ -196,6 +196,60 @@ src/Game.cpp.s:
 	$(MAKE) -f CMakeFiles/snake.dir/build.make CMakeFiles/snake.dir/src/Game.cpp.s
 .PHONY : src/Game.cpp.s
 
+src/Point.o: src/Point.cpp.o
+
+.PHONY : src/Point.o
+
+# target to build an object file
+src/Point.cpp.o:
+	$(MAKE) -f CMakeFiles/snake.dir/build.make CMakeFiles/snake.dir/src/Point.cpp.o
+.PHONY : src/Point.cpp.o
+
+src/Point.i: src/Point.cpp.i
+
+.PHONY : src/Point.i
+
+# target to preprocess a source file
+src/Point.cpp.i:
+	$(MAKE) -f CMakeFiles/snake.dir/build.make CMakeFiles/snake.dir/src/Point.cpp.i
+.PHONY : src/Point.cpp.i
+
+src/Point.s: src/Point.cpp.s
+
+.PHONY : src/Point.s
+
+# target to generate assembly for a file
+src/Point.cpp.s:
+	$(MAKE) -f CMakeFiles/snake.dir/build.make CMakeFiles/snake.dir/src/Point.cpp.s
+.PHONY : src/Point.cpp.s
+
+src/Snake.o: src/Snake.cpp.o
+
+.PHONY : src/Snake.o
+
+# target to build an object file
+src/Snake.cpp.o:
+	$(MAKE) -f CMakeFiles/snake.dir/build.make CMakeFiles/snake.dir/src/Snake.cpp.o
+.PHONY : src/Snake.cpp.o
+
+src/Snake.i: src/Snake.cpp.i
+
+.PHONY : src/Snake.i
+
+# target to preprocess a source file
+src/Snake.cpp.i:
+	$(MAKE) -f CMakeFiles/snake.dir/build.make CMakeFiles/snake.dir/src/Snake.cpp.i
+.PHONY : src/Snake.cpp.i
+
+src/Snake.s: src/Snake.cpp.s
+
+.PHONY : src/Snake.s
+
+# target to generate assembly for a file
+src/Snake.cpp.s:
+	$(MAKE) -f CMakeFiles/snake.dir/build.make CMakeFiles/snake.dir/src/Snake.cpp.s
+.PHONY : src/Snake.cpp.s
+
 src/main.o: src/main.cpp.o
 
 .PHONY : src/main.o
@@ -239,6 +293,12 @@ help:
 	@echo "... src/Game.o"
 	@echo "... src/Game.i"
 	@echo "... src/Game.s"
+	@echo "... src/Point.o"
+	@echo "... src/Point.i"
+	@echo "... src/Point.s"
+	@echo "... src/Snake.o"
+	@echo "... src/Snake.i"
+	@echo "... src/Snake.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
