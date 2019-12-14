@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -pedantic -O3 -DNDEBUG   CMakeFiles/snake.dir/src/main.cpp.o CMakeFiles/snake.dir/src/Game.cpp.o CMakeFiles/snake.dir/src/Snake.cpp.o CMakeFiles/snake.dir/src/Point.cpp.o  -o snake   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib: -lsfml-graphics -lsfml-window -lsfml-system 

@@ -4,7 +4,7 @@ project(snake)
 include_directories(/usr/local/include)
 link_directories(/usr/local/lib)
 
-set(SFMLSNAKE_SOURCES ./src/main.cpp ./src/Game.cpp ./src/Snake.cpp ./src/Point.cpp)
+set(SFMLSNAKE_SOURCES ./src/main.cpp)
 set (CMAKE_CXX_FLAGS "-Wall -pedantic")
 set (CMAKE_BUILD_TYPE "Release")
 
