@@ -1,0 +1,7 @@
+/home/newbee/Documents/Snake/build/CMakeFiles/install/strip.dir
+/home/newbee/Documents/Snake/build/CMakeFiles/install/local.dir
+/home/newbee/Documents/Snake/build/CMakeFiles/edit_cache.dir
+/home/newbee/Documents/Snake/build/CMakeFiles/rebuild_cache.dir
+/home/newbee/Documents/Snake/build/CMakeFiles/snake.dir
+/home/newbee/Documents/Snake/build/CMakeFiles/list_install_components.dir
+/home/newbee/Documents/Snake/build/CMakeFiles/install.dir

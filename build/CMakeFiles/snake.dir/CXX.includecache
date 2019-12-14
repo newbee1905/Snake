@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/newbee/Documents/Snake/src/Game.cpp
+bits/stdc++.h
+/home/newbee/Documents/Snake/src/bits/stdc++.h
+Game.h
+/home/newbee/Documents/Snake/src/Game.h
+
+/home/newbee/Documents/Snake/src/Game.h
+SFML/Audio.hpp
+-
+SFML/Graphics.hpp
+-
+SFML/Network.hpp
+-
+SFML/System.hpp
+-
+SFML/Window.hpp
+-
+bits/stdc++.h
+/home/newbee/Documents/Snake/src/bits/stdc++.h
+
+/home/newbee/Documents/Snake/src/main.cpp
+bits/stdc++.h
+/home/newbee/Documents/Snake/src/bits/stdc++.h
+Game.h
+/home/newbee/Documents/Snake/src/Game.h
+
